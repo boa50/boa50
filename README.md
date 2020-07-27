@@ -1,4 +1,6 @@
-### Hi there 👋
+<a href="https://www.linkedin.com/in/bruno-albuquerque-59269651/">
+  <img src="https://raw.githubusercontent.com/boa50/boa50/master/LI-In-Bug.png" width=2% height=2%>
+</a>
 
 <!--
 **boa50/boa50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
