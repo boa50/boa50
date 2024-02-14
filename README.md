@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/bruno-albuquerque-59269651/">
+<a href="https://www.linkedin.com/in/brunoalbuquerque50">
   <img src="https://raw.githubusercontent.com/boa50/boa50/master/LI-In-Bug.png" width=2% height=2%>
 </a>
 
